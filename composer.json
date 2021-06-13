@@ -1,0 +1,8 @@
+{
+    "require": {
+        "rtransat/betaseries-api": "^1.0",
+        "rhnorskov/torrentapi-php": "dev-master",
+        "vohof/transmission": "^1.0",
+        "alc/addic7ed-cli": "^1.1"
+    }
+}

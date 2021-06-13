@@ -1,5 +1,0 @@
-flask
-pytvdbapi
-sqlalchemy
-transmissionrpc
-subliminal

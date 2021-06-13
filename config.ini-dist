@@ -1,0 +1,14 @@
+[unagi]
+storage=/path/to/data
+svods[]=Netflix
+svods[]=Amazon Prime Video
+
+[betaseries]
+api_key=
+user_token=
+
+[transmission]
+host=http://localhost:9091
+endpoint=/transmission/rpc
+username=
+password=
